@@ -171,8 +171,6 @@ crisis, please seek professional, human help. See
 
 <div align="center">
 
-如果这个项目让你更诚实地面对了自己，给它一个 ⭐ 吧。
-*If it helped you face yourself more honestly, leave a ⭐.*
 
 Made with care · MIT License
 
